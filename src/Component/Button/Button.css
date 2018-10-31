@@ -1,0 +1,36 @@
+.button {
+  color: #fff;
+  cursor: pointer;
+}
+
+.button-right {
+  border-top-right-radius: 2px;
+  border-bottom-right-radius: 2px;
+}
+
+.orange {
+  padding: 4px 8px;
+  border: 1px solid #f3905d;
+  background: #f3905d;
+  font-size: 16px;
+  outline: none;
+}
+
+.text-button {
+  background: none;
+  border: 0;
+  font-size: 14px;
+  font-weight: 700;
+  text-decoration: underline;
+  text-transform: uppercase;
+  cursor: pointer;
+  outline: none;
+}
+
+.text-button.default {
+  color: #282c34;
+}
+
+.text-button.active {
+  color: #f3905d;
+}

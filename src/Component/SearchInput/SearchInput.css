@@ -1,0 +1,14 @@
+.main-search-input {
+  width: 35%;
+  max-width: 440px;
+  padding: 4px 8px;
+  border: 1px solid #f3905d;
+  font-size: 16px;
+  cursor: pointer;
+  outline: none;
+}
+
+.input-right {
+  border-top-left-radius: 2px;
+  border-bottom-left-radius: 2px;
+}
